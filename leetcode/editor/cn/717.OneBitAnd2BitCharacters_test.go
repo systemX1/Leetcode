@@ -6,21 +6,17 @@ import (
 )
 
 func TestOneBitAnd2BitCharacters(t *testing.T) {
-    fn := oneBitAnd2BitCharacters
+    fn := isOneBitCharacter
     log.Println(fn([]int{1,0,0}))
 }
 
 //leetcode submit region begin(Prohibit modification and deletion)
 func isOneBitCharacter(bits []int) bool {
-    i := 0
-    for i < len(bits) {
-        if bits[i] == 0 {
-            i++
-        } else if bits[i] == 1 {
-            i += 2
-        }
+    i, n := 0, len(bits)
+    for i <= n - 2 {
+        i += bits[i] + 1
     }
-    return false
+    return i == n - 1
 }
 //leetcode submit region end(Prohibit modification and deletion)
 

@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/198.HouseRobber_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/198.HouseRobber_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com198" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/198.HouseRobber_test.go" />
+              <option name="titleSlug" value="house-robber" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/1TwoSum_test.go">
           <value>
             <LeetcodeEditor>
@@ -91,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/297.SerializeAndDeserializeBinaryTree_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/297.SerializeAndDeserializeBinaryTree_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com297" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/297.SerializeAndDeserializeBinaryTree_test.go" />
+              <option name="titleSlug" value="serialize-and-deserialize-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/300.LongestIncreasingSubsequence_test.go">
           <value>
             <LeetcodeEditor>
@@ -99,6 +121,50 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/300.LongestIncreasingSubsequence_test.go" />
               <option name="titleSlug" value="longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/354.RussianDollEnvelopes_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/354.RussianDollEnvelopes_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com354" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/354.RussianDollEnvelopes_test.go" />
+              <option name="titleSlug" value="russian-doll-envelopes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/375.GuessNumberHigherOrLowerIi_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/375.GuessNumberHigherOrLowerIi_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com375" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/375.GuessNumberHigherOrLowerIi_test.go" />
+              <option name="titleSlug" value="guess-number-higher-or-lower-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/416.PartitionEqualSubsetSum_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/416.PartitionEqualSubsetSum_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com416" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/416.PartitionEqualSubsetSum_test.go" />
+              <option name="titleSlug" value="partition-equal-subset-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/494.TargetSum_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/494.TargetSum_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com494" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/494.TargetSum_test.go" />
+              <option name="titleSlug" value="target-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -388,6 +454,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/剑指 Offer 26.ShuDeZiJieGouLcof_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/剑指 Offer 26.ShuDeZiJieGouLcof_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 26" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/剑指 Offer 26.ShuDeZiJieGouLcof_test.go" />
+              <option name="titleSlug" value="shu-de-zi-jie-gou-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/剑指 Offer 35.FuZaLianBiaoDeFuZhiLcof_test.go">
           <value>
             <LeetcodeEditor>
@@ -399,6 +476,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/剑指 Offer 37.XuLieHuaErChaShuLcof_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/剑指 Offer 37.XuLieHuaErChaShuLcof_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 37" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/剑指 Offer 37.XuLieHuaErChaShuLcof_test.go" />
+              <option name="titleSlug" value="xu-lie-hua-er-cha-shu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/剑指 Offer 39.ShuZuZhongChuXianCiShuChaoGuoYiBanDeShuZiLcof_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/剑指 Offer 39.ShuZuZhongChuXianCiShuChaoGuoYiBanDeShuZiLcof_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 39" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/剑指 Offer 39.ShuZuZhongChuXianCiShuChaoGuoYiBanDeShuZiLcof_test.go" />
+              <option name="titleSlug" value="shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/面试题 08.01.ThreeStepsProblemLcci_test.go">
           <value>
             <LeetcodeEditor>
@@ -407,6 +506,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/面试题 08.01.ThreeStepsProblemLcci_test.go" />
               <option name="titleSlug" value="three-steps-problem-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/面试题 08.13.PileBoxLcci_test.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/面试题 08.13.PileBoxLcci_test.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com面试题 08.13" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/面试题 08.13.PileBoxLcci_test.go" />
+              <option name="titleSlug" value="pile-box-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>

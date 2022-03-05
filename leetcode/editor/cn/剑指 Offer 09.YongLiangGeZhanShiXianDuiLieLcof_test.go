@@ -14,7 +14,7 @@ type CQueue struct {
     stk2 []int
 }
 
-func Constructor() CQueue {
+func CQueueConstructor() CQueue {
     return CQueue{
         stk1: []int{},
         stk2: []int{},
@@ -43,7 +43,7 @@ func (q *CQueue) DeleteHead() int {
 //leetcode submit region end(Prohibit modification and deletion)
 /**
  * Your CQueue object will be instantiated and called as such:
- * obj := Constructor();
+ * obj := CQueueConstructor();
  * obj.AppendTail(value);
  * param_2 := obj.DeleteHead();
  */

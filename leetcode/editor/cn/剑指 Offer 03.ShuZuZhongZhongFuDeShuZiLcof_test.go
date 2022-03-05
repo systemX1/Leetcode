@@ -39,18 +39,21 @@ func countRange(nums []int, start, end int) int {
 
 //leetcode submit region begin(Prohibit modification and deletion)
 func findRepeatNumber(nums []int) int {
-    for i, num := range nums {
-        if num == i {
-            continue
-        }
-        for nums[i] != i {
-            if nums[i] == nums[nums[i]] {
-                return nums[i]
-            }
-            nums[i], nums[nums[i]] = nums[nums[i]], nums[i]
-        }
-    }
-    return 0
+   for i, num := range nums {
+       if num == i {
+           continue
+       }
+       for nums[i] != i {
+           if nums[i] == nums[nums[i]] {
+               return nums[i]
+           }
+           nums[i], nums[nums[i]] = nums[nums[i]], nums[i]
+       }
+   }
+   return 0
 }
 //leetcode submit region end(Prohibit modification and deletion)
+
+
+
 
